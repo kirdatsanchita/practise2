@@ -6,3 +6,4 @@ driver.manage(0.window().maximize();
 driver.manage().window().refresh();
 driver.navigate().back();
 driver.navigate().forword();
+driver.manage().backForward();
