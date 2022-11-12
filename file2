@@ -3,7 +3,13 @@ sjskvs
 vsvsv
 vjsvk'
 driver.manage(0.window().maximize();
+<<<<<<< HEAD
 driver.manage().window().refresh();
 driver.navigate().back();
 driver.navigate().forword();
 driver.manage().backForward();
+=======
+driver.manage().window().back();
+driver.manage().window().forword();
+>>>>>>> branch 'main' of https://github.com/kirdatsanchita/practise2
+driver.manage().window().backword();
