@@ -3,3 +3,4 @@ sjskvs
 vsvsv
 vjsvk'
 driver.manage(0.window().maximize();
+driver.manage().window().back();
