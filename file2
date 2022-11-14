@@ -13,3 +13,4 @@ driver.manage().window().back();
 driver.manage().window().forword();
 >>>>>>> branch 'main' of https://github.com/kirdatsanchita/practise2
 driver.manage().window().backword();
+driver.manage().window().maximize();
